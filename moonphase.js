@@ -2,9 +2,7 @@
 <!-- Moon Phase Start -->
      
 <!--hide
-// Written by James Thiele jet@eskimo.com http://www.eskimo.com/~jet/javascript/moonphase
-// Permission granted to SimplytheBest.net to feature script in its 
-// DHTML script collection at http://simplythebest.net/info/dhtml_scripts.html
+// cloned from very old opensource script converted to wordpress plugin
 function showMoon() {
 var height=1
 var size = 40
