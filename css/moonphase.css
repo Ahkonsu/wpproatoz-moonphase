@@ -1,0 +1,10 @@
+.moon-phase-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.moon-phase-text {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+}

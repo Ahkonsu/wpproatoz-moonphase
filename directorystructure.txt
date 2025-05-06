@@ -1,0 +1,7 @@
+wp-content/plugins/moon-phase-display/
++-- moon-phase-display.php
++-- css/
+¦   +-- moon-phase.css
++-- images/
+¦   +-- black.gif
+¦   +-- white.gif
